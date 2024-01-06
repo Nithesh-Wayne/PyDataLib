@@ -1,17 +1,17 @@
 
 <!-- Project Title -->
-# PyDataLib 
+# PyDataLib2
 
-██████╗░██╗░░░██╗██████╗░░█████╗░████████╗░█████╗░██╗░░░░░██╗██████╗░
-██╔══██╗╚██╗░██╔╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░░░░██║██╔══██╗
-██████╔╝░╚████╔╝░██║░░██║███████║░░░██║░░░███████║██║░░░░░██║██████╦╝
-██╔═══╝░░░╚██╔╝░░██║░░██║██╔══██║░░░██║░░░██╔══██║██║░░░░░██║██╔══██╗
-██║░░░░░░░░██║░░░██████╔╝██║░░██║░░░██║░░░██║░░██║███████╗██║██████╦╝
-╚═╝░░░░░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝╚═════╝░
+██████╗░██╗░░░██╗██████╗░░█████╗░████████╗░█████╗░██╗░░░░░██╗██████╗░██████╗░
+██╔══██╗╚██╗░██╔╝██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██║░░░░░██║██╔══██╗╚════██╗
+██████╔╝░╚████╔╝░██║░░██║███████║░░░██║░░░███████║██║░░░░░██║██████╦╝░░███╔═╝
+██╔═══╝░░░╚██╔╝░░██║░░██║██╔══██║░░░██║░░░██╔══██║██║░░░░░██║██╔══██╗██╔══╝░░
+██║░░░░░░░░██║░░░██████╔╝██║░░██║░░░██║░░░██║░░██║███████╗██║██████╦╝███████╗
+╚═╝░░░░░░░░╚═╝░░░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝╚═════╝░╚══════╝
 ---
 
 ## About
-PyDataLib  is a foundational toolkit of dynamic Python utilities igniting innovation and efficiency in development.
+PyDataLib2  is a foundational toolkit of dynamic Python utilities igniting innovation and efficiency in development.
 
 <!-- Badges (Optional) -->
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -27,7 +27,7 @@ PyDataLib  is a foundational toolkit of dynamic Python utilities igniting innova
 ---
 
 ## About
-PyDataLib is a foundational toolkit of dynamic Python utilities innovation and efficiency in development.
+PyDataLib2 is a foundational toolkit of dynamic Python utilities innovation and efficiency in development.
 
 ### Key Features
 - **Flexibility**: A flexible set of utilities adaptable to various development needs.
@@ -42,7 +42,7 @@ PyDataLib is a foundational toolkit of dynamic Python utilities innovation and e
 
 ## Usage
 
-Start using PyDataLib  in your Python projects:
+Start using PyDataLib2  in your Python projects:
 
 ### String Manipulation
 
@@ -57,7 +57,7 @@ result = string_validation.is_string("input_string") # true
 ---
 
 ### Installation
-You can install PyDataLib  using `pip`:
+You can install PyDataLib2  using `pip`:
 ```bash
-pip install PyDataLib 
+pip install -i https://test.pypi.org/simple/ PyDataLib2
 ```
